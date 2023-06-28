@@ -11,7 +11,7 @@ body {
   position: relative;
   margin: 0;
   padding: 0;
-  background-image: url("/images/fon-slider.png");
+  background-image: url("../images/fon-slider.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -139,32 +139,32 @@ body::after {
 }
 
 .c-slide-item-1 {
-  background-image: url("/images/1.png");
+  background-image: url("../images/1.png");
   background-position: center;
   background-repeat: no-repeat;
 }
 .c-slide-item-2 {
-  background-image: url("/images/2.png");
+  background-image: url("../images/2.png");
   background-position: center;
   background-repeat: no-repeat;
 }
 .c-slide-item-3 {
-  background-image: url("/images/3.png");
+  background-image: url("../images/3.png");
   background-position: center;
   background-repeat: no-repeat;
 }
 .c-slide-item-4 {
-  background-image: url("/images/4.png");
+  background-image: url("../images/4.png");
   background-position: center;
   background-repeat: no-repeat;
 }
 .c-slide-item-5 {
-  background-image: url("/images/5.png");
+  background-image: url("../images/5.png");
   background-position: center;
   background-repeat: no-repeat;
 }
 .c-slide-item-6 {
-  background-image: url("/images/6.png");
+  background-image: url("../images/6.png");
   background-position: center;
   background-repeat: no-repeat;
 }
